@@ -1,0 +1,4 @@
+.cache/*
+*.egg-info
+*.pyc
+python_hiring_test/data/processed/*.csv
